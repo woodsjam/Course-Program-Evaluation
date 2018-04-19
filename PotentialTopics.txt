@@ -1,0 +1,40 @@
++ Ethics
+    + IRB style
+    + Evaluator ethics
+    
++ Types of evaluation    
+    + Process evaluation
+    + Impact
+    + Cost Effectiveness
+
++ Program Theory Construction
+    + 
+
++ Techniques
+    + Survey construction and fielding
+        + Survey testing
+        + Stratification and sample size
+        + Post sampling stratification
+        + Missing data in surveys
+        + Techniques for sensitive issues
+        + Documentation
+        + Handling confidentiality
+    + Field experiments
+        + Experimental design
+    + Statistical
+        + IV
+        + Regression Discontinuity
+        + CEM
+    + Qualitative Methods
+        + Ethnographic interviews
+        + Focus groups
+        + Content analysis
+        + Documentation
+        + Handling confidentiality
+
++ Report Writing
+  
++ Industry Specific Protocols
+    + EE Evaluation Nationwide
+    + EE Evaluation in Oregon
+    

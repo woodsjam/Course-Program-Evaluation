@@ -12,6 +12,8 @@
 
 + Techniques
     + Survey construction and fielding
+        + Latest Version of Dillman https://search.library.pdx.edu/primo-explore/fulldisplay?docid=CP51230772660001451&context=L&vid=PSU&search_scope=psu_library&tab=default_tab&lang=en_US
+
         + Survey testing
         + Stratification and sample size
         + Post sampling stratification
@@ -22,6 +24,7 @@
     + Field experiments
         + Experimental design
     + Statistical
+        + DID
         + IV
         + Regression Discontinuity
         + CEM
@@ -37,4 +40,48 @@
 + Industry Specific Protocols
     + EE Evaluation Nationwide
     + EE Evaluation in Oregon
+    + OECD Development
     
+    
+Journals for Student Ideas
+
++ Evaluation and Program Planning: An International Journal (https://stats.lib.pdx.edu/proxy.php?url=https://www.journals.elsevier.com/evaluation-and-program-planning/)
++ American Journal Of Evaluation (https://stats.lib.pdx.edu/proxy.php?url=http://journals.sagepub.com/loi/ajec)
++ New Directions for Evaluation (https://stats.lib.pdx.edu/proxy.php?url=https://onlinelibrary.wiley.com/journal/1534875x)
++ Practical Assessment, Research & Evaluation (http://pareonline.net/)
++ Journal of MultiDisciplinary Evaluation (http://journals.sfu.ca/jmde/index.php/jmde_1/index)
++ Evaluation (https://stats.lib.pdx.edu/proxy.php?url=http://journals.sagepub.com/home/evi)
++ Evaluation Review (https://stats.lib.pdx.edu/proxy.php?url=http://journals.sagepub.com/home/erx)
+
+Some Potential Literature
+
+Ludwig, Jens, Jeffrey R. Kling, and Sendhil Mullainathan. 2011. "Mechanism Experiments and Policy Evaluations." Journal of Economic Perspectives, 25 (3): 17-38.
+DOI: 10.1257/jep.25.3.17
+https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.25.3.17
+
+Athey, Susan, and Guido W. Imbens. 2017. "The State of Applied Econometrics: Causality and Policy Evaluation." Journal of Economic Perspectives, 31 (2): 3-32.
+DOI: 10.1257/jep.31.2.3
+https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.31.2.3
+    
+    
+List, John, A.. 2011. "Why Economists Should Conduct Field Experiments and 14 Tips for Pulling One Off." Journal of Economic Perspectives, 25 (3): 3-16.
+DOI: 10.1257/jep.25.3.3
+https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.25.3.3
+
+https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A4/a-4.pdf
+https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A94/a094.pdf
+
+
+Textbook
+
+https://www.vitalsource.com/referral?term=9781452289595
+
+McDavid, James C., et al. Program evaluation and performance measurement. Sage, 2012.
+by James C. McDavid
+
+Publisher: SAGE Publications, Inc
+Print ISBN: 9781412978316, 1412978319
+eText ISBN: 9781452289595, 145228959X
+Edition: 2nd
+Pages: 560
+Copyright year: 2013

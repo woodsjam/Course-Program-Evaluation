@@ -13,6 +13,12 @@
 + Techniques
     + Survey construction and fielding
         + Latest Version of Dillman https://search.library.pdx.edu/primo-explore/fulldisplay?docid=CP51230772660001451&context=L&vid=PSU&search_scope=psu_library&tab=default_tab&lang=en_US
+        
+        
+
+We will be working with real programs. University Institutional Review Boards (the IRB) provide oversight for investigators whose research designs and methods include human subjects. PSU’s Human Subjects Research and Responsible Conduct of Research
+trainings are online courses via CITI tutorials. This certification is a required component of compliance with basic research ethics. Use the following link to access the training materials: https://www.citiprogram.org/index.cfm?pageID=154&icat=0&ac=0&region=1
+        
 
         + Survey testing
         + Stratification and sample size
@@ -70,7 +76,7 @@ https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.25.3.3
 
 https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A4/a-4.pdf
 https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A94/a094.pdf
-
+https://nationalefficiencyscreening.org/wp-content/uploads/2017/05/NSPM_May-2017_final.pdf
 
 Textbook
 

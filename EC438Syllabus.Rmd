@@ -1,5 +1,5 @@
 ---
-title: "Syllabus EC428/528 Fall 2018"
+title: "Syllabus EC428/528 Spring 2020"
 author: "James Woods"
 date: ""
 output: pdf_document
@@ -8,20 +8,34 @@ output: pdf_document
 
 # Course Description
 
-Methodology for program evaluation from needs assessment through outcome and effectiveness evaluation. Heavy reliance on case studies. Students may participate in ongoing evaluations.
+>Methodology for program evaluation from needs assessment through outcome and effectiveness evaluation. Heavy reliance on case studies. Students may participate in ongoing evaluations.
+
+We will be working with real programs and real data on some programs run by PSU.  Two key requirements for this course will be to complete PSU’s Human Subjects Research and Responsible Conduct of Research training, which is required to analyse some of our data, and, possibly, to sign a Non-Disclosure Agreement which clarifies Federal Education Records Privacy Act (FERPA) requirements.
+
+We will also be meeting with university adminstrators, program implementers, and other evaluators outside of the regular class schedule.
+
+## COVID-19
+
+This will be a very unusual term.  While this is listed as an in-person class, we will not be meeting in a classroom.  We will be meeting online via zoom, which is built in to D2L, at the usual course time.  Should Zoom fail us, we will switch to Google Meet. If that fails, I will sort something out until we are left standing in a circle, in a field, separated from each other by at least three meters, where we will discuss microeconomics and barter for toilet paper.
+
+I will keep a link to our Zoom meeting space updated in D2L so there is as little confusion as possible and also post any new links in slack.
+
+All homework will be turned in through the assignment function in D2L and the quizzes we have each class session be conducted as quizzes in D2L.
+
+As of today, I am unclear how DRC accommodations will be managed, or if we will be meeting in-person at all this term.
 
 ## Prerequisites
 
 The undergraduate section has microeconomic theory, EC 311, or the calculus based version, EC 415, listed as prerequisites.  The graduate section requires only graduate standing.
 
-As with most economics courses, the more background you bring to the class, the more get from the class.  For this class, it means bringing a background in experimental design, microeconomic theory, econometrics.  Any technical skills that students are missing will be supplemented with in-class tutorials.  Sometimes this will mean learning about constrained optimization or breaking out laptops for a tutorial on running regressions in R.
+As with most economics courses, the more background you bring to the class, the more get from the class.  For this class, it means bringing a background in experimental design, microeconomic theory, econometrics.  Any technical skills that students are missing will be supplemented with in-class tutorials.  Sometimes this will mean learning about constrained optimization or a tutorial on running regressions in R.
 
 ## Key Dates
 
 
 # Contact Information
 
-Communication will be handled through slack https://PSUEC428Fall18.slack.com. You should have received an invitation, if not, just go to that URL and use your @pdx.edu email to sign up. There are reasonable help documents to get you started. https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users
+Communication will be handled through slack https://PSUEC428Spring2020.slack.com. You should have received an invitation, if not, just go to that URL and use your @pdx.edu email to sign up. There are reasonable help documents to get you started. https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users
 
 Slack will be used for IM, email and forum style communication.  It even handles phone calls. If you have a question about course material or the course itself, ask in one of the channels. If you have a personal message that is not intended for others, send a direct message. The group has global do not disturb hours of 10pm - 8am.  If you would like something different, alter your personal settings.
 
@@ -30,22 +44,100 @@ Please note that I am not online all the time, and when I am online I will prior
 
 Office Hours:
 
-+ My office is in CH 241-O.
-+ Drop in office hours are XXX pm  through the last week of class. There is no need to make an appointment for these hours -- just come.
-+ If you can’t attend regular office hours, please check my calendar https://woodsj.youcanbook.me/. I will make a limited number of 15 minute slots available each week.  
++ There are no in-person office hours this term.  We will use the same Zoom meeting function described above.
++ Drop in office hours are Tuesday 2:30-3:30pm and Thursday 8am-9am through the last week of class. I will keep a Zoom meeting up during this time.  Always keep in mind you can ask questions on slack. 
+
+I will generally be up and online during regular working hours. Don't expect instant responses.  I have another class, research and administration responsibilities too.
 
 # Textbook and Other Resources
 
-The main text for the course is McDavid, James C., et al. Program evaluation and performance measurement. Sage, 2012. ISBN-10: 1412978319.  You can find the official online version of the text at (https://www.vitalsource.com/referral?term=9781452289595)
+The main text for the course is Rossi, Peter H., Mark W. Lipsey, and Gary T. Henry. Evaluation: A systematic approach (7th ed). Sage publications, 2004.  There is a newer 8th edition of the book but this one is significantly cheaper.  This is a classic in the field.
 
-This text will be heavily supplemented with journal articles available electronically through the library.
 
-# Assessments and Grade Policy
+This text will be supplemented with journal articles available electronically through the library.  There are also many useful online resources  at the American Evaluation Association website (www.eval.org).
+
+
+# Assessments, Grades and Other Rules
+
+This is a project based course that does not have exams or classic homework questions.
+
+Here is a brief list of the assignments:
+
++ CITI Conduct of Responsible Research Training 
++ Summary of Evaluation Report
++ Program Theory Sample
++ Interview guide for need assessment and logic model construction
++ Interview Report after interviewing PSU administrators.  
++ Wrangling and Presenting Data
++ Survey Question Critique
++ Design of Survey Questions and Fielding
++ Summary of Survey Data
++ Draft Outcome assessment
++ Draft Report 
++ Final Report
+
+Most of these assignments are connected with the evaluation of a program at PSU.
+
+
+## Attendance
+
+I expect you to be on camera and ontime.  There will be a brief quiz on the reading at the start of each class.
+
+
+## Special Rules for Group Work
+
+There are some circumstances where you will have to work with your classmates to achieve objectives -- group work.  Students have come to hate group work because other students are not always reliable.
+
+Periodically, I will send each group a small survey with two questions:
+
++ Have all group members been contributing?
++ Who should be removed from the group for not contributing?
+
+If a student is found to be not contributing to group work, they will be removed and must complete all group work on their own as a group of one.  In other words, contribute to the group, or do all the work yourself.
+
+## Professionalism In Meetings
+
 
 # Topics and Readings
 
++ Overview
+    + Ch 1 Rossi
 
-# Other Rules
++ Ethics
+    + Complete the CITI Conduct of Responsible Research Training (https://www.citiprogram.org/index.cfm?pageID=154&icat=0&clear=1&_ga=2.114101767.1844545578.1551636345-123937980.1551636345).  This is required to complete most course projects.
+    + Ch 12 Rossi
+
++ Program Logic Models
+    + Ch 5 Rossi
+    + Meadows, Donella. "Leverage Points: Places to Intervene in a System." The Academy for Systems Change, 1999, donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/.
+
++ Process Evaluation
+    + Rossi Ch 6
+    + SAMPLE PROCESS EVALUATION
+
++ Outcome Evaluation
+    + Rossi Ch 7
+    + SAMPLE OUTCOME EVALUATION
+
++ Methods
+    + Ch 8-10 Rossi  The extent depends on statistical expertise.
+    + Ludwig, Jens, Jeffrey R. Kling, and Sendhil Mullainathan. 2011. "Mechanism Experiments and Policy Evaluations." Journal of Economic Perspectives, 25 (3): 17-38.
+DOI: 10.1257/jep.25.3.17
+https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.25.3.17
+    + List, John, A.. 2011. "Why Economists Should Conduct Field Experiments and 14 Tips for Pulling One Off." Journal of Economic Perspectives, 25 (3): 3-16.
+DOI: 10.1257/jep.25.3.3
+https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.25.3.3
+    + Athey, Susan, and Guido W. Imbens. 2017. "The State of Applied Econometrics: Causality and Policy Evaluation." Journal of Economic Perspectives, 31 (2): 3-32.
+DOI: 10.1257/jep.31.2.3
+https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.31.2.3
+    
++ Surveys
+    + Dillman, D., Smyth, Jolene D., & Christian, Leah Melani. (2014). Internet, phone, mail, and mixed-mode surveys : The tailored design method (Fourth ed.). Hoboken: Wiley. (https://ebookcentral-proquest-com.proxy.lib.pdx.edu/lib/psu/reader.action?docID=1762797) Ch 3-5.
+
++ Report Writting
+    + McCloskey, D. (2000). Economical writing (Second ed.). Prospect Heights, Illinois: Waveland Press. is an excellent read on how to write. There are 31 short, snarky chapters in 91 pages. Read a chapter a day and try to apply what you read and you will be less embarrassed at work.
+
+# University Statements
 
 
 + Please be aware that federal, state, and PSU policies require faculty members to report any instances of sexual harassment, sexual violence and/or other forms of prohibited discrimination. Similarly, PSU faculty are required to file a report if they have reasonable cause to believe that a child with whom they come into contact has suffered abuse, or that any person with whom they come into contact has abused a child. If you would rather share information about these experiences with an employee who does not have these reporting responsibilities and can keep the information confidential, please contact one of the following campus resources (or visit https://www.pdx.edu/sexual-assault/get-help):
@@ -56,13 +148,6 @@ This text will be heavily supplemented with journal articles available electroni
     + Student Legal Services: 1825 SW Broadway, (SMSU) M343, (503) 725-4556
 
     For more information about the applicable regulations please complete the required student module Creating a Safe Campus in your D2L.
-
-
-+ Begging for grades will result in an immediate lowering of your course grade by a full letter grade.
-  
-+ When completing online quizzes or other assignments, you may use your book, wiki, calculator, spreadsheets, notes, or other resources as long as it is not another student or person.  *The work must be authentically and genuinely your own. In other words, if you are copying answers you found online, it is not your work.*
-
-+ Go to office hours at the first sign of trouble -- not as a last resort.
 
 + In this classroom, we support and value diversity.  To do so requires that we:
 
@@ -87,4 +172,4 @@ This text will be heavily supplemented with journal articles available electroni
 + I am sympathetic to family emergencies but you must inform me as soon as possible. If the notice is verbal, please email me with your understanding of our agreement. All agreements have to be in writing.
 
 
-Link to this syllabus hhttps://github.com/woodsjam/Course-Program-Evaluation.  There is a branch for each term.  Be sure to choose the correct branch to see the current syllabus.  
+Link to this syllabus https://github.com/woodsjam/Course-Program-Evaluation.  There is a branch for each term.  Be sure to choose the correct branch to see the current syllabus.  

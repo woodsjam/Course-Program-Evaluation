@@ -44,7 +44,7 @@ Please note that I am not online all the time, and when I am online I will prior
 
 Office Hours:
 
-+ There are no in-person office hours this term.  We will use the same Zoom meeting function described above.
++ There are no in-person office hours this term.  We will use the same Zoom meeting function described above.  There will be a link on the landing page to get you there and I will update that link if it changes.  It is currently https://pdx.zoom.us/j/282315064 .
 + Drop in office hours are Tuesday 2:30-3:30pm and Thursday 8am-9am through the last week of class. I will keep a Zoom meeting up during this time.  Always keep in mind you can ask questions on slack. 
 
 I will generally be up and online during regular working hours. Don't expect instant responses.  I have another class, research and administration responsibilities too.
@@ -68,10 +68,12 @@ Here is a brief list of the assignments:
 + Program Theory Sample
 + Interview guide for need assessment and logic model construction
 + Interview Report after interviewing PSU administrators.  
++ Logic Models for our programs
 + Wrangling and Presenting Data
 + Survey Question Critique
 + Design of Survey Questions and Fielding
 + Summary of Survey Data
++ Endogenaity and Missing Data
 + Draft Outcome assessment
 + Draft Report 
 + Final Report
@@ -100,16 +102,17 @@ If a student is found to be not contributing to group work, they will be removed
 
 # Topics and Readings
 
-+ Overview
-    + Ch 1 Rossi
 
 + Ethics
     + Complete the CITI Conduct of Responsible Research Training (https://www.citiprogram.org/index.cfm?pageID=154&icat=0&clear=1&_ga=2.114101767.1844545578.1551636345-123937980.1551636345).  This is required to complete most course projects.
     + Ch 12 Rossi
 
++ Overview
+    + Ch 1 Rossi
+
 + Program Logic Models
     + Ch 5 Rossi
-    + Meadows, Donella. "Leverage Points: Places to Intervene in a System." The Academy for Systems Change, 1999, donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/.
+    + Meadows, Donella. "Leverage Points: Places to Intervene in a System." The Academy for Systems Change, 1999, http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/.
 
 + Process Evaluation
     + Rossi Ch 6

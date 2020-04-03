@@ -12,7 +12,7 @@ output: pdf_document
 
 We will be working with real programs and real data on some programs run by PSU.  Two key requirements for this course will be to complete PSU’s Human Subjects Research and Responsible Conduct of Research training, which is required to analyse some of our data, and, possibly, to sign a Non-Disclosure Agreement which clarifies Federal Education Records Privacy Act (FERPA) requirements.
 
-We will also be meeting with university adminstrators, program implementers, and other evaluators outside of the regular class schedule.
+We will also be meeting with university administrators, program implementers, and other evaluators outside of the regular class schedule.
 
 ## COVID-19
 
@@ -45,7 +45,7 @@ Please note that I am not online all the time, and when I am online I will prior
 Office Hours:
 
 + There are no in-person office hours this term.  We will use the same Zoom meeting function described above.  There will be a link on the landing page to get you there and I will update that link if it changes.  It is currently https://pdx.zoom.us/j/282315064 .
-+ Drop in office hours are Tuesday 2:30-3:30pm and Thursday 8am-9am through the last week of class. I will keep a Zoom meeting up during this time.  Always keep in mind you can ask questions on slack. 
++ Drop in office hours are Wednesday 12:00-1:30pm and Thursday 8am-9am through the last week of class. I will keep a Zoom meeting up during this time.  Always keep in mind you can ask questions on slack. 
 
 I will generally be up and online during regular working hours. Don't expect instant responses.  I have another class, research and administration responsibilities too.
 
@@ -83,7 +83,7 @@ Most of these assignments are connected with the evaluation of a program at PSU.
 
 ## Attendance
 
-I expect you to be on camera and ontime.  There will be a brief quiz on the reading at the start of each class.
+I expect you to be on camera and on time.  There will be a brief quiz on the reading at the start of each class.
 
 
 ## Special Rules for Group Work
@@ -137,7 +137,7 @@ https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.31.2.3
 + Surveys
     + Dillman, D., Smyth, Jolene D., & Christian, Leah Melani. (2014). Internet, phone, mail, and mixed-mode surveys : The tailored design method (Fourth ed.). Hoboken: Wiley. (https://ebookcentral-proquest-com.proxy.lib.pdx.edu/lib/psu/reader.action?docID=1762797) Ch 3-5.
 
-+ Report Writting
++ Report Writing
     + McCloskey, D. (2000). Economical writing (Second ed.). Prospect Heights, Illinois: Waveland Press. is an excellent read on how to write. There are 31 short, snarky chapters in 91 pages. Read a chapter a day and try to apply what you read and you will be less embarrassed at work.
 
 # University Statements

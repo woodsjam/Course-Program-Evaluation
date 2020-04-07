@@ -1,0 +1,140 @@
+---
+title: "Ch 12: Rossi"
+output: beamer_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Officially The Social Context of Evaluation
+
++ Wide Variety of preparation
++ Many different uses of evaluations
++ Political
+
+
+## Warnings
+
++ You become your first evaluation much in the same way you become your first supervisor.
++ My first experiences were filled with:
+    + Deception, self-dealing behavior
+    + Massive amounts of money on the line
+    + Need for activist style evaluators
+    
+This clouds my judgement to this day.  You will likely have a COVID-19 taint of some kind.
+
+## More Darkness
+
+The Iron Law of Evaluation: The expected value of any net impact assessment of any large scale social program is zero.
+
++ "Large scale" seems to be key.
++ Small often works
+
+## The Stainless Steel Law
+
+The better designed the impact assessment of a social program, the more likely is the resulting estimate of net impact to be zero.
+
++ Good experimental design that deals with self-selection usually means no-measured effect.
++ Positive result bias exists in evaluation
+
+## The Brass Law
+
+The more social programs are designed to change individuals, the more likely the net impact of the program will be zero.
+
++ You can't change a person.
++ You can change the incentives that they face.
+
+## The Zinc Law
+
+Only those programs that are likely to fail are evaluated.
+
++ Don't buy this one.
++ Programs that are evaluated have a constituencies, either supporters or detractors, they drive evaluations.
+
+##
+
+Feeling doom and depression yet?
+
+## Evaluators Come from Many Fields
+
++ Econ
++ Engineering
++ Sociologist
+
+The best had a masters and stats and and Ph.D. in folklore.
+
+## Tend to Be Generalists
+
++ You need to learn a lot of odd things to be a good evaluator.
++ Bridging from economics is hard because we don't always value other skills sets.
+    + Rare that economists will do an ethnographic interview
+    + Intensely statistical
+
+
+## Who Values What
+
++ Academics need peer reviewed journal articles
++ Evaluators need their work to be used by someone and have an effect on lives.
+
+The push to get evaluations used often leads to advocacy and the reputation of bias.
+
+## Step in one toe
+
++ Wildly political environment
+    + Don't know the players
+    + Alliances
+    + Often, who is in charge
++ Someone may be using you as a weapon
+
+## Example The Meeting on Friday
+
++ I didn't know why I was in that meeting but saw use.
++ Pretty sure I was not being used as a weapon.
++ I didn't know who was in charge, but used an old trick.
++ 36 Stratagems
+
+Note: I over-emphasize this because of my early experience
+
+## Primary Problem
+
+Unless you have a contractually defined contact that wants to see a well conducted evaluation, and who trusts you to do a good job -- you serve a hydra.
+
+It is best to think of your evaluation as a collection of bomb parts that you must consider how they will be misused.
+
+## Bomb Parts?
+
++ Program supporters will think you are trying to harm them.
++ Detractors will use it to attack.
++ Sometimes supporters and detractors are about a person and not a program. Learn to ID this.
+
+## My Solution
+
++ Rossi describes evaluators ad needing to be a 'secondary disseminator'.
++ You may have been hired by an organization, but your moral responsibility is to program participant.
++ The result is my activist orientation.
+
+## Communication
+
+You just spent 6 years of your life earning an MS in Economics and have gotten very good at econometrics.
+
++ If you can't explain what you did well enough to make someone _feel_ as if they understand -- you have failed.
++ This is a skill in itself -- translators.
+
+## Common Pattern
+
++ Hard tech is in appendix
++ Main body is the long version of those with subject matter expertise.
++ Executive summaries (plural) for different audience groups.
++ Presentations that a targeted at specific groups.
+
+## So, you need a team
+
++ Diversity is a strength.  I mean in terms of skills sets.
++ Explain your discipline's point of view to your team members.
++ Trust them in their area of expertise.
++ The more you learn from each other, the more you can swap roles.
+
+## In the end, The Guiding Principles
+
+https://www.eval.org/p/cm/ld/fid=51

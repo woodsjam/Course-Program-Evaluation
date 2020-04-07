@@ -1,0 +1,33 @@
+---
+title: "The Tool Chain"
+output: beamer_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## There are a lot of tool chains for evaluation
+
+This is one:
++ R
++ RStudio
++ Markdown
++ Git
+
+## Why R?
+
+R and Python are the large data science languages.  You should probably be able to handle a little SQL, which we may also work with.
+
+## Why RStudio?
+
+Pretty good IDE that has a point and click interface for a lot of things.
+
++ Works with R and Python
++ Works with SQL
++ Markdown and \LaTeX are implied
+
+## Why Markdown?
+
++ Actually Markdown and Kniter or Sweave and \LaTeX

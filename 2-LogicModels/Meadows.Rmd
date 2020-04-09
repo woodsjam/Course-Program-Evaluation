@@ -33,3 +33,5 @@ knitr::opts_chunk$set(echo = FALSE)
 3. The goals of the system.
 2. The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.
 1. The power to transcend paradigms.
+
+

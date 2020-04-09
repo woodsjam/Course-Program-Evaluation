@@ -1,6 +1,7 @@
 ---
 title: "Ch 12: Rossi"
 output: beamer_presentation
+theme: "Berlin"
 ---
 
 ```{r setup, include=FALSE}
@@ -62,7 +63,7 @@ Feeling doom and depression yet?
 + Engineering
 + Sociologist
 
-The best had a masters and stats and and Ph.D. in folklore.
+The best had a masters in stats and and Ph.D. in folklore.
 
 ## Tend to Be Generalists
 

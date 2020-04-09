@@ -1,6 +1,7 @@
 ---
 title: "The Tool Chain"
 output: beamer_presentation
+theme: "Berlin"
 ---
 
 ```{r setup, include=FALSE}
@@ -11,6 +12,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## There are a lot of tool chains for evaluation
 
 This is one:
+
 + R
 + RStudio
 + Markdown
@@ -31,3 +33,12 @@ Pretty good IDE that has a point and click interface for a lot of things.
 ## Why Markdown?
 
 + Actually Markdown and Kniter or Sweave and \LaTeX
++ Analysis code and text (comments) in same document.
++ Formating is done by computer not you doing point and click.
+
+## Git
+
++ Allows shareing and version control.
++ Not optimal for text but great for code.
+
+Lets do some git things.

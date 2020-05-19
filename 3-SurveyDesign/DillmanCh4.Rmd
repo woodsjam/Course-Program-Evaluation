@@ -1,0 +1,301 @@
+---
+title: "Words Matter"
+output: beamer_presentation
+theme: "Berlin"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Primer on Question Design
+
+READ THE BOOK!
+
++ Seriously, this is much more complicated than you think.
++ There are so many people with experience writing bad questions that they think they know how to do it.
+
+##  Initial Issues
+
++ Mode and Tool Limitations
++ Reuse of questions
++ Motivation to Answer
++ What information do you want?
+
+
+## Mode and Tool Limitations
+
++  Mode means: in-person, phone, internet, mail, sms, etc.
++ Sometimes you can choose and sometimes you can't.
++ There are different costs per-response in each.
++ Mode choice is often determined by your population list:
+    
+    + If you only have email, then you do an email survey.
+    + If you have postal, you can match on other data for about $1 - $10 each. 
+    
+    
+## Mode and Tool Limitations
+
+A common model is to use multi-mode:
+
++ Postcard
++ Postcard with link to internet survey (x2)
++ Mail survey with link
++ Phone survey (Calling Schedule)
++ In-person
+
+Good data means well understood sampling method with follow-up to reduce non-participation bias.  Large numbers of responses can't fix this.
+
+## Reuse of questions
+
+We reuse a lot of questions for good and bad reasons:
+
++ Question was on previous survey and it allows us to look for changes over time.
++ Question in reference survey and can be used for post sampling stratification.
++ Question was pre-tested and used without incident.
+
+Reuse often allows poor quality questions to propagate.
+
+## Motivation
+
++ If interested in the topic
++ If answering does not require too much effort
++ If they know how long it will take
++ If it isn't too personal (financial)
++ If it isn't embarrassing (sex)
+
+## What information do you want?
+
++ Questions should link to a decision.
+    + Stop or start doing something.
+    + Ideally, threshold values pre-decided.
++ Because I'm curious is not a reason
++ Needed for post-sampling stratification
++ The nature of the information need determines the form of the question:
+
+    + Factual vs opinion
+    + Precision requirements.
+
+## Open vs Closed
+
++ Open mean a box that you write or type in
++ Closed means control over how you respond
+    + Multiple choice
+    + Number in a box
+    + Date
+    + Likert (1-5)/ Ordinal
+
+## Open vs Closed
+
++ Open requires more respondent effort
+    + More likely to be skipped or produce more missing values when self-administered.
+    + You learn the language the people use.
++ Open requires more analytic effort
+    + You need to code them to analyze
+    + You need to interpret what they said
++ Open does not frame or prompt as much.
+
+## Common Pattern
+
++ Start with open-response
++ Keep track of how people respond -- there will be patterns.
++ The open-responses will drive closed responses.
++ Lets you know the language they use to describe things.
+
+## Example Open-response
+
+"Please tell us what item of furniture, for example a table, are in the room with you right now."
+
++ "coffee table"
++ "davenport"
++ "side table"
+
+The person is probably East Coast and at least 65.  
+
+## Another Example
+
+"What do you wear on your feet while taking a shower in a gym or other public shower?"
+
++ "Shower shoes"
++ "Flip flops"
++ "Thongs"
+
+## What you learn on an open-response test
+
++ Region, age, culture specific language
++ The words that you use that are expert language
++ Upper and lower bounds on quantities.
+
+Use this to construct a closed-response test where the options cover about 90% of the responses.
+
+## Real World Example
+
++ Energy Efficiency used the same basket of behavior questions and equipment questions for a long while.
++ We did  an open-response
+    + Found many new behaviors, more common than the standards.
+    + Found what expert language was confusing (Stove vs range vs oven vs cook top)
+    
+## Question Components
+
++ Stem (the question)
++ Directions (in years)
++ Answer space
++ Other decoration (Layout graphics, typeface)
+
+## Will focus on words now
+
++ Make sure question applies
++ Technically accurate
++ One question at a time.  No compound questions.
++ Simple, Hemingway words.
++ Concrete words.  Don't require math.
++ Minimal sentences.
++ Simple complete sentences.
++ No means no.
++ Stem matches answer space
+
+## Make sure question applies
+
++ Don't ask my shoe size until you know I have feet.
++ This is why surveys have skip patterns. "If you answered yes to question 3 ..."
++ Harder in paper self-administered but easy with electronic.
+
+## Cautions
+
++ People may not respond or quit if they get one of these.
++ An earlier mismark or misunderstanding may trap you in part of the survey.
+
+The huge one used to be "race"
+
+
+## Technically accurate
+
+Book gives description about horses being measured hands rather than feet.
+
++ Sometimes technically accurate involves expert language
++ Example:  Does your house have 220W service?
+    + Ask more than one question to triangulate.
+    + Do you have an electric stove top?
+    + Do you have an stand alone, not stack-able, clothes dryer?
+
+## One question at a time.  No compound questions.
+
+Instead of: "Have you stopped beating your wife?" Yes/No
+
+Ask two questions: "Did you ever beat your wife?", "If you answered yes the previous question, have you beat your wife in the last month?"
+
+## Caution
+
++ Just because you think two things go together does not mean they always go together.
+    + Knife and fork, spoon and fork, spoon and chopsticks? 
+    + Check your bias at the door
+
+## Simple, Hemingway words.
+
++ No expert words
++ No college words
++ No acronyms
+
+This is why we test questions with open-response first.  This is why we test questions on a trusted non-expert (Mom).
+
+
+## Concrete words.  Don't require math.
+
+"On average, how many times a week do you exercise?"
+
++ On average gives aspiration. "last week" is concrete.
++ What is exercise?  physical activity Where you were out of breath or had difficulty carrying on a conversation?  Went to the gym.
+  
+
+
+## Minimal sentences.
+
++ Prune to the shortest sentence possible.
++ Any stray word can be the source of confusion.
++ Any stray word can change the interpretation.
+
+## Caution
+
++ Use your ear
++ NO equivocation, same word used two different ways.
++ No elegant variation.
+
+Read the McCloskey Book.
+
+## Simple complete sentences.
+
++ Not just gramatically complete
++ Should not require information from other questions to answer.
++ Small reading mistakes should not matter.
++ If you have to read it twice to figure it out -- not simple or complete.
+
+## No means no.
+
++ Stop not notting your nots.
++ https://www.dallasnews.com/news/watchdog/2019/09/26/yes-means-no-and-no-means-yes-in-coming-vote-on-a-future-state-income-tax/
+
+
+## Stem matches answer space
+
+If the question asks for pounds the answer space should not be in ounces.
+
+## Lets Try a Few
+
++ Make sure question applies
++ Technically accurate
++ One question at a time.  No compound questions.
++ Simple, Hemingway words.
++ Concrete words.  Don't require math.
++ Minimal sentences.
++ Simple complete sentences.
++ No means no.
++ Stem matches answer space
+
+##
+
+Have any of the following student support services been challenging to access since the transition to remote learning? (Check all that apply.)
+
++ Student Health and Counseling (SHAC),
++ Food Pantry,
++ University Housing,
++ Career services,
++ Financial Aid,
++ Student Financial Services,
++ Advising,
++ Technology Support - OIT HelpDesk,
++ Internships or practicum placements,
++ Other (please specify)
+
+##
+
+Let us know if you are having trouble because of the shelter-in-place order. There are community organizations that can help and we can connect you.
+
++ I am homeless or couch surfing.;
++ I have to take care of family members or children in the household. ;
++ I have food insecurity.;
++ I can’t pay my rent.;
++ There is no quiet space in the home.;
++ I or someone in household is needing additional day-to-day support (e.g., grocery shopping, providing child care, social/emotional care, etc).
+
+
+##
+
+Please let us know if you have experienced any of the following challenges with access to technology? (Check all that apply.)
+
++ I don't have access to a reliable digital device (e.g. laptop, mobile device),
++ I don't have access to library resources,
++ I don't have access to specialized software for my classes (e.g. GIS software, Adobe products, statistical packages),
++ I don't have access to reliable internet service,
++ I don't have access to reliable communication software/tools (e.g. Zoom, Skype, Google),
+Other (please specify)
+
+##
+
+Let us know about any technology or internet connectivity issues we can help you with.
+
++ My internet service is unreliable or insufficient for remote learning.;
++ I don’t have a webcam or microphone for my computer.;
++ Not enough, or any, computers in home for remote learning.;
++ I need to print at home but can’t.;
++ I Don’t know how to use the technology (Zoom, D2l, etc.);
+

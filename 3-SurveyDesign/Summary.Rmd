@@ -1,0 +1,163 @@
+---
+title: "So You Want to Give a Survey?"
+output: pdf_document
+author: "James Woods"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<!-- This is the distillation of 25 years of experience and a few textbooks. The document provides links to the best work on survey design and fielding [Dillman, D., Smyth, Jolene D., & Christian, Leah Melani. (2014). Internet, phone, mail, and mixed-mode surveys : The tailored design method (Fourth ed.). Hoboken: Wiley](https://ebookcentral-proquest-com.proxy.lib.pdx.edu/lib/psu/reader.action?docID=1762797), as well as slides from my program evaluation course. -->
+
+# Overarching
+
+Every survey, every question, every message has a cost.  Every poorly conceived survey, vague question, and unnecessary email makes it harder to field a good survey, ask a precise question, and get a response to an urgent email. 
+
++ ***No survey is free.***  Every time you give one, you lower the response rate on someone else's survey or increase their cost.
+
++ ***No question is free.***  Every additional question in a survey can reduce the completion rate.
+
++ ***Communication is good, but it must be relevant.***  If the noise overwhelms the signal, there is no signal.  Don't cry wolf.
+
+# When Possible Start With a Decision and a Criteria
+
+Everything works more smoothly if you do your work ahead of time.  Surveys and the questions within surveys are there to support decision making.
+
++ ***"If at least X% in the survey say 'yes', then we will do Y."*** That is a good basis for a survey question.
+
++ ***The more precise the decision criteria, the cheaper the survey.*** This comes from sample size calculations.  
+
+
+# Sample Don't Census
+
+This is an expert area.  If you don't understand why you sample or how to sample ask an expert. 
+
+
++ ***Don't attempt a census unless you have to.*** They are expensive and if not done nearly perfectly, will only get responses from the willing. It is the equivalent of losing your keys in the park, but looking under the streetlight because the lights better. 
+
++ ***Estimate the number of _responses_ you need to get the precision you want.***  A good rule of thumb is that you need 400 responses for a yes/no question to be within 5% of the true number.  100 responses is enough to be within 10%. Once you know how many responses you need, 400, and a good guess at the response rate, 20% is a good guess, you can calculate your sample size, $\frac{400}{.2} = 2,000$.
+
++ ***Stratify your sample.***  If you know that students with low GPAs are less likely to respond than students with high GPAs, include more students with low GPAs in your sample. Ask an expert.
+
++ ***A small, well-conducted, random sample is far better than a large convenience sample.***  Do not worship the god of N. Anything other than a random sample requires an expert to analyze.  Convenience samples, the people that are easy to contact, snowball samples, asking friends and friends of friends, are very tricky to analyze.
+
++ ***You never 'just look at the data'.***  The data will be weighted and adjusted for non-participation bias.  If you don't do this, you only see the preferences and beliefs of the well-connected and interested.
+
+
+# Motivate, Persuade and Get Their Attention
+
+You are not entitled to anyone's opinion or thoughts.  They need to be motivated.
+
+
++ ***Your survey must compete to get their attention.*** Respondents get more email, phone calls, post cards, text messages than they can pay attention to. Just because it is important to you, does not mean it is important to them.
+
++ ***Say please and thank you.  Tell them it is important.***  Don't get excessive.  There is a fine line.
+
++ ***Lead with a good subject line that does not include the word, "survey".***  
+
++ ***Establish bona fides and your authority early.***  This is why we ask for the president and provost to sponsor.  
+
++ ***Put the call to action at the top.***  Don't bury the lede. The military phrase is Bottom Line Up Front (BLUF).
+
++ ***Tell them what decision you are trying to make or what action you will take if they answer.***  This motivates.
+
++ ***Motivation can mean cash.***  Small incentives, without obligation are common. The smallest incentive I've given is a copy of the report, the largest was a $200 jacket to every respondent.
+
++  ***You must have a follow-up plan.*** One email, phone call or text is not enough.  Three emails to primary email, followed by three more to secondary emails, followed by post card with link to online survey, followed by mail-back survey, followed by a series of phone calls, followed by an in-person visitation is a plan.  You can cut expenses here but at the cost of bias.
+
++ ***Poorly conducted phone surveys used to have a three call schedule.  The good ones had a 22 call schedule.*** The difference between well-done and poorly-done is a degree of magnitude.
+
++ ***People that respond on the first contact are very different than those that respond on the 20th.***  This is why you must follow up.  You want to know about the population, not just the convenient and willing.
+
++ ***Follow your plan and if you still don't have enough responses, pull another sample block.***  Reducing follow-up in favor of pulling a new block increases bias.
+
++ ***Picture every response as costing you $50 each.***  That is what it costs to develop the questions, sample, field, and analyze the survey.  You may not see the bill, but that is the effort that goes into it.
+
+# Writing Questions is a Skill and There are Rules
+
+
+
++  ***Good survey questions take time to construct.***  Open-ended questions are often used to refine questions and answers. Questions need to be tested.
+
++ ***Off-the-shelf questions should be improved on, but not copied***  There are exceptions to this.  You should copy questions from long-running national surveys because they have been tested.
+
++ ***Open-ended questions give great data but have high costs.***  They have to be coded afterwards, and every one you add reduces your completion rate.  Put them near the end.
+
+## Open-Ended Questions
+
+These are the least formated questions.  Put them early in the question testing or late in your final survey.
+
++ ***Be specific and Match Question to Response.***    "How many years since ...", "What year did you ...", "_Approximately_ how many years ..." These are better than "How long have you ..."
+
++ ***No Math.*** Don't ask for averages or force some things to sum.
+
++ ***Motivate questions.*** Please and thank you -- but not to excess.  "Please take your time ...",  "Responses will be used to improve services", "There are community organizations that can help and we can connect you."
+
++ ***Probe but be neutral.*** "Are there any others ...", "How do you mean that?", "Tell me more about ..."  Some responses are so disturbing they will stick with you for the rest of your life, but stay neutral.
+
++ ***The size of the box determines the length of the responses.***  Small boxes get few words.  Larger boxes get more.
+
+## Closed-Ended Questions
+
+These are the box-ticking and ranking style questions that are so easy to write but so hard to write well.
+
++ ***Make sure question applies.*** Don't ask my shoe size until you know I have feet.  This can be subtle.  "Race" combined with "please choose one" used cause a lot of non-completes.
+
++ ***Technically accurate questions that avoid expert language.*** Don't acronym. Don't ask for height of a horse in feet when they are measured in hands.
+
++ ***One question at a time. No compound questions.*** Instead of, "Have you stopped beating your wife?", ask two questions, "Did you ever beat your wife?", "If you answered yes the previous question, have you beat your wife in the last month?"
+
++ ***Simple, Hemingway, words.*** No expert words. No college words. No acronyms. Use your Anglo-Saxon vocabulary. This is why we test questions with open-response first.
+
++ ***Concrete words.  Don't require math.*** "On average, how many times a week do you exercise?" On average gives aspiration. "last week" is concrete. What is "exercise"?  Physical activity Where you were out of breath or had difficulty carrying on a conversation?  Went to the gym?
+
++ ***Minimal sentences.*** Prune to the shortest sentence possible. Any stray word can be the source of confusion and can change the interpretation. No equivocation. No elegant variation.
+
++ ***Simple complete sentences.*** Not just grammatically complete. If you have to read it twice to figure it out -- not simple or complete.
+
++ ***"No" means no.*** I won't not use double negatives. This is not a ballot title.
+
++ ***Stem matches answer space.*** If the question asks for pounds the answer space should not be in ounces.
+
++ ***Be neutral about scales.  Don't signal what you like.*** Sound like a disinterested party.  "How satisfied or dissatisfied ..." vs "How satisfied ..."  Positive and negative. "Agree or disagree" vs "Agree"  Yes/No. "Concerned, if at all" vs "Concerned". 
+
++ ***Choices should cover 80%-90% of cases.*** Allow them to opt-out or not have an opinion.  Give them an option for 'other'.  Many 'other' answers or lots of skips means you did a poor job of constructing choices.
+
++ ***Use mutually exclusive lists.  Don't nest or overlap.*** "At least 18 but under 21".  If you nest, for example, ask about green beans and blue lake green beans, the changing the order changes results.
+
++ ***Don't lead with emotion.***   "If when you say whiskey you mean the devil's brew, the poison scourge, the bloody monster, ...  But, if when you say whiskey you mean the oil of conversation, the philosophic wine ..."
+
++ ***Don't split the vote.*** What is your preferred vehicle"  Truck? Red car? White car? Yellow car?
+
++ ***Randomize order of choices when you can.***
+
++ ***Avoid 'check all' unless they are complete sentences.*** If they are not complete sentences used forced choice, yes/no, for each item. 
+
+## Ordinal or Ranking Questions
+
+These are the common "To what extent do you agree with the following statement..." questions.
+
++ ***Choose the reals or the positives (Bi or Uni polar) and stick to it.***  Make sure you have a clear zero for "How often do you ..." uni-polar questions and for Pleased/Displeased bipolar questions.
+
++ ***Limit scale to 5 +/- 2 options.*** It is all people can handle.  If ordinal, make the difference between 1 and 2 the same as between 3 and 4 the same
+
++ ***Don't force agree/disagree.***  Lazy because the questions are formulaic, "To what extent do you agree or disagree that online learning ...".  Get direct when you can "Did you learn more or less than ..."
+
++ ***If there is a metric, use it.*** Don't be vague.  Replace "How often do you eat takeout?  Frequently, often, ...", with, "How many times did you eat take out last week?"
+
++ ***Equalize physical distance and psychological distance.***  The average or zero should be in the middle. How good are you at your job?  
+    + Excellent
+    + Very good
+    + Above average
+    + Slightly above Average
+    + ***Average*** FAIL
+    + Slightly below average
+
++ ***Label all options on short scales.*** How else would do you know what three means relative to a five?
+
++ ***Remove clutter.*** If the scale is 0-100, you don't need to have every number on the scale.
+
++ ***Break up questions if too hard, too personal.***  Ask if income is above or below \$50K, then ask if above or below \$75K.  They can stop at their comfort level.
+
++ ***The scale leads the respondent.*** People don't buy the cheapest bottle of wine.  People avoid the ends of scales to be more 'normal'.

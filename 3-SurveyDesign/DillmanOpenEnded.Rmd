@@ -1,0 +1,349 @@
+---
+title: "Open-Ended and Closed-Ended Questions"
+output: beamer_presentation
+theme: "Berlin"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Open-Ended Questions
+
++ Means that the respondent controls the response.
++ Boxes that you fill in, not boxes that you tick.
++ Modes:
+    
+    + Discriptives
+    + Numerical
+    + List
+
+## Descriptive
+
++ The most open-ended. "How would you improve this class?"
++ When:
+    + Discover words people use.
+    + Discover models of how people use and think of things.
+    + Crowdsource creativity.
+    
+## Numerical
+
++ Example: "How old are you?"
++ When:
+    + You don't want to prompt them with a socially desired answer.
+    + Not afraid of scaring them away with private or embarrassing.
+    + OK with increased missingness.
+    + Closed ended is an option.
+    
+## List
+
++ Example: "What have you been doing to save energy?"
++ When:
+    + Question pre-tests
+    + Collect new ideas,words and models
+    + When you are OK with missing items.  People don't remember grocery lists.
+    + Can be converted to forced choice later.
+    
+    
+## Guidelines
+
++ Match Question and Response Type.
++ No Math
++ Motivate
++ Probe
+
+
+## Match Question and Response Type
+
+Be Specific
+
++ How many years since ...
++ What year did you ...
++ _Approximately_ how many years ...
+
+Make it so the coder does not have to do math and nobody will answer in weeks.
+
+## No math
+
++ No averages
++ Don't force them to have things add to a sum, e.g., 24hrs in a day.
++ American Time Use Survey asks for each hour.
++ If web survey, have the survey do it for the respondent.
+
+## Motivate
+
++ Please and thank you -- but not to excess.  "Please take your time ..."
++ How responses will be used. "Improve services" 
++ Self-interest "There are community organizations that can help and we can connect you."
+
+
+## Probe
+
++ Find second place.  "Are there any others ..."
++ Don't indicate that the interviewer is pleased or displeased by the previous answer.
+    + "How do you mean that?"
+    + "Tell me more about ..."
+    + No matter how scary or odd the first answer!
+
+
+## Closed-Ended Basics
+
++ Box ticking
++ Interviewer controlled
++ Types:
+    + Agree/Disagree
+    + Like/Dislike
+    + Category, Gas vs electric
+    
+## Guidelines
+
++ Be neutral about scales.  Don't signal what **you** would like to see.
++ Choices should cover 80%-90% of cases.
++ Mutually Exclusive lists.  Don't nest or overlap.
++ Visual Tools can help.
+
+
+## Be neutral about scales.  Don't signal what you like.
+
+Make it look like you are a neutral party.
+
++ "How satisfied ..." vs "How satisfied or dissatisfied ..." Positive and negative
++ "Agree" vs "Agree or disagree" Yes/No
++ "Concerned" vs "Concerned, if at all" Include zero
+
+If you see this assume it is a push survey.
+
+## Choices should cover 80%-90% of cases.
+
++ This is why we question test with open-ended questions first
++ Provide an out for no opinion
+        + "Coke or Pepsi?" Don't care.
++ Provide "other".  
+        + You will see lots of other when the survey question does not cover 80% to 90% of cases.
+        + If you did a really bad job, people will skip the question and the blank you left.
+
+## Mutually Exclusive lists.  Don't nest or overlap
+
++ Ages and income end points should be [Start, End) or (Start, End].  "At least 18 but under 21" and "At least 21 but under 35"
++ Don't nest.  Order matters when you do.
+    + Green beans
+    + Vegetables
+    + Blue lake green beans
+    + Sardines
+
+
+## Visual Tools can help
+
++ A tool limitation.
++ Sliders 
++ Check box
++ Radio Buttons
+
+
+Don't get too clever.  If your survey uses every question type in qualtrics, even heat map, you did it wrong.
+
+## Hints for Nominal Questions
+
+Nominal is not the language I would use.  Ordinal is mine.
+
++ Yes/No
++ Ordinal, (Small medium large)
++ Rank
+
+
+## The Hints
+
++ People can't handle a lot of choices when ranking.
++ Don't lead with emotion.  Don't split the vote.
++ Randomize order for categorical, unordered, answers.
++ "No Check all" vs "Forced Choice"
+
+## People can't handle a lot of choices when ranking.
+
++ Choose A or B questions.  Used in choice surveys.
++ Verbally, two or at most three choices.
+    + Current research ethics says three with one being a current state
++ Visually, at most five.
++ Our ability to choose declines when the choices become more complex.
+
+## Why These Types Questions
+
++ Ranking is a route out of the Arrow Impossibility Theorem.
++ Used for hedonic models to price attributes
++ See a lot of Sahan and Randy's work.
+
+## Problems
+
++ Respondent Inattention 
+    + Decision making is hard.  We don't make them unless you have to.
+    + We may be forming preferences during the survey, not showing our preference within the survey.
++ Attribute Inattention
+    + Complex descriptions with many attributes.
+    + I don't care about some attributes
++ Choice Inattention. 
+    + Sometimes we don't care about some options.
+
+
+## Don't lead with emotion.  Don't split the vote.
+
++ Emotion can drive everything. If-By-Whiskey.
++ Split vote example:
+    + Truck
+    + Blue car
+    + White car
+    + Red car
+
+## If by Whiskey 1952 Noah Sweat
+
+My friends, I had not intended to discuss this controversial subject at this particular time. However, I want you to know that I do not shun controversy. On the contrary, I will take a stand on any issue at any time, regardless of how fraught with controversy it might be. You have asked me how I feel about whiskey. All right, here is how I feel about whiskey:
+
+##
+
+If when you say whiskey you mean the devil's brew, the poison scourge, the bloody monster, that defiles innocence, dethrones reason, destroys the home, creates misery and poverty, yea, literally takes the bread from the mouths of little children; if you mean the evil drink that topples the Christian man and woman from the pinnacle of righteous, gracious living into the bottomless pit of degradation, and despair, and shame and helplessness, and hopelessness, then certainly I am against it.
+
+## 
+
+But, if when you say whiskey you mean the oil of conversation, the philosophic wine, the ale that is consumed when good fellows get together, that puts a song in their hearts and laughter on their lips, and the warm glow of contentment in their eyes; if you mean Christmas cheer; if you mean the stimulating drink that puts the spring in the old gentleman's step on a frosty, crispy morning; if you mean the drink which enables a man to magnify his joy, and his happiness, and to forget, if only for a little while, life's great tragedies, and heartaches, and sorrows; if you mean that drink, the sale of which pours into our treasuries untold millions of dollars, which are used to provide tender care for our little crippled children, our blind, our deaf, our dumb, our pitiful aged and infirm; to build highways and hospitals and schools, then certainly I am for it.
+
+## 
+
+This is my stand. I will not retreat from it. I will not compromise.
+
+## Randomize order for categorical
+
++ Anchoring effects.
+    + Worse than or better than the first. 
+    + Form of primacy effect
+    + Evaluated based on the last two or three options read.
++ Run out of or gain energy during the question
++ Menu effect variation.
+
+## "Check all" vs "Forced Choice"
+
++ Check all means to affirm one or more:
+    + Yes, Desktop computer
+    + Yes, Laptop computer
++ Forced choice
+    + Yes/No Laptop
+    + Yes/No Desktop
+
+## Jamie Personal
+
++ I do forced choice when the options are not complete sentences.
++ I Check all when the choices are complete sentences.
+
+## Example that Forced Choice Would Help
+
+Have any of the following student support services been challenging to access since the transition to remote learning? (Check all that apply.)
+
++ Student Health and Counseling (SHAC),
++ Food Pantry,
++ University Housing,
++ Career services,
+
+## Example where it would not
+
+Please let us know if you have experienced any of the following challenges with access to technology? (Check all that apply.)
+
++ I don't have access to a reliable digital device (e.g. laptop, mobile device),
++ I don't have access to library resources,
++ I don't have access to specialized software for my classes (e.g. GIS software, Adobe products, statistical packages),
++ I don't have access to reliable internet service,
+ 
+ 
+## Ordinal Is Hard
+
+"On a scale of one to ten where one is ..."
+
++ Overused
++ Hard to not bias
+
+
+## Hints
+
++ Choose the reals or the positives (Bi or Uni polar) and stick to it.
++ Limit scale to 5 +/- 2 options.
++ Don't force agree/disagree.
++ If there is a metric, use it.
++ Equalize physical distance and psychological distance.
++ Label.
++ Remove clutter.
++ Break up questions if too hard
++ The scale leads the respondent
+
+
+## Choose the reals or the positives (Bi or Uni polar) and stick to it.
+
++ Uni
+    + How often
+    + Satisfaction
+    + Have a clear zero
++ Bi
+    + Pleased/Displeased
+    + Important/unimportant
+    + Have a clear zero
+
+## Limit scale to 5 +/- 2 options.
+
++ We only can use so many categories.
++ When people want more they are trying to rank or the categories are not well spaced.
+    + Difference between 1 and 2 is greater than between 3 and 4.
++ Minimize valence changes across questions
+
+## Don't force agree/disagree
+
++ Lazy because the questions are formulaic, "To what extent do you agree or disagree that online learning ..."
++ Begs a definition or a translation to degree of agreement.
++ Instead ask
+    + How likely are you to vote for ...
+    + How durable ...
+    + Did you learn more or less than ...
+
+## If there is a metric, use it.
+
++ Don't be vague, "How often do you eat takeout?  Frequently, often, ..."
++ "How many times did you eat take out last week?"
+
+
+## Equalize physical distance and psychological distance.
+
++ FAIL
+    + Excellent
+    + Very good
+    + Above average
+    + Slightly above Average
+    + ***Average*** 
+    + Slightly below average
+
+## Label
+
++ Not just the top and bottom options.  Label all options.
++ How else would I know the midpoint.
++ A number without interpretation is not a label.
+
+## Remove clutter
+
++ If the scale is 0-100, you don't need to have every number on the scale.
+
+## Break up questions if too hard
+
+Sometimes
+
+If web or phone:
+
++ First ask sign, fail or not fail.
++ Then ask magnitude, serious or minor
++ Branching is easy.
+
+If paper:
+
++ Branching harder than a compound, sign and magnitude, question
+
+
+## The scale leads the respondent
+
+
++ People interpret the range in the question as 'normal'
++ People like to be normal.
++ Telling people what other people marked makes them more likely to mark it too.

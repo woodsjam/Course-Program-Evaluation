@@ -1,0 +1,128 @@
+---
+title: "The Last Day"
+output: beamer_presentation
+theme: "Berlin"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Agenda
+
++ Make sure you take the quiz in d2l on the grade you want and why.
++ Exchange non-PSU email for folks graduating.
++ Bullet points and advice for resume.
++ Socialize
+
+
+## So about grades ...
+
+This class was more like a practicum.  We did things and learned things on the fly and under deadlines with external masters.
+
++ Fill out the quiz.  
++ It has three questions:  
+    + The grade you want
+    + The grade you deserve and,
+    + Why
+
+## What We Did
+
++ Certified for Human Subjects
++ Built a tool chain you can use in later projects
++ Learned about logic models from at least two points of view
++ Reviewed artifacts about Students First
++ Created an interview document
++ Created a process evaluation plan that will be implemented this summer.
++ Brainstormed questions for a student need survey.  Some were implemented.
++ Learned some basics of how to weight survey data to better match the population.
++ Learned about survey question construction and fielding.
++ Told the administration your concerns about Fall.  They are listening and doing things about it.
+
+## When Anyone Asks What you Did
+
+
+You worked to make sure that PSU students had the support they needed during the COVID-19 pandemic.  
+
+## People that are graduating
+
+University is about knowledge and Networks.
+
++ Send your contact information, including a non-PSU email address, to the faculty that you think could provide a good letter of recommendation or a reference.
++ Do the same with classmates that you think you could work with some day.
++ Don't depend on social media.  Plan on a contact, email anything about twice a year to keep the relationship warm.
+
+##  Resume Bullet Points
+
+March 20- June 20: Program Evaluation, Portland State University -- Practicum in program evaluation at PSU.
+
+
++ Used R and Markdown to create survey reports.
++ Created impact and process evaluation plan for "Students First", intended to help the most vulnerable 15% of PSU students. Results pending.
++ Managed and analysed  Material Needs Survey during COVID-19 pandemic.  All students that asked for help received it.
+
+
+Certificates
+
++ Certified as a CITI Human Subjects Researcher Group 1.
+
+## Resume In General
+
++ One page in reverse chronological order
++ No cute fonts or formatting.
+
+## Name, Address, Phone
+
+Name you want to be known by top center.
+
++ Contact details right under name on one line.
++ Local postal
++ ONE phone number that you have 24/7 access to and is not your employer.
++ Professional voice-mail
+
+## One email
+
++ Make sure it looks like your name and not some random garp.
++ No negative impressions.
++ No LinkedIn, Facebook or website unless website is relevant
+
+## NO
+
++ No Core Competencies
++ No Career Summary
++ No Section Headings
+
+## Each Job
+
+Start Month Year -- End Month Year: Title, Company Name - Responsibilities.
+
++ Accomplishment 1
++ Accomplishment 2
+
+No need for complete sentences in responsibilities. Use past tense if not current.
+
+## Accomplishments
+
++ Use numbers and details to show scope.
++ Try Verb, Result, Method
++ Accomplishments
+
+
+## Other
+
++ No "interests"
++ Volunteer work is a job if you have a title, responsibilities and accomplishments.
++ Education:  
+  + Degree title, institution, graduation year.  
+  + College only.
++ Certifications.  This is where your CITI goes
+
+## KISS
+
++ Mess with margins so it fits.  One inch all around at most. Half an inch smallest.
++ No tables
++ Font Times New Roman.
++ No color
++ No spelling errors
++ Consistent punctuation
++ Accurate: Watch dates

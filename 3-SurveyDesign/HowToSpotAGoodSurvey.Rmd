@@ -1,0 +1,17 @@
+---
+title: "How to Spot a High-Quality Survey"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
++ When you read a question, you know exactly what it is asking and how to interpret each response.
++ The questions are either to control for non-response bias, or to help you make a decision. Ideally, you decided on the decision criteria before the survey went out.
++ The survey was sent to a sample, not everyone. 
++ Some people are oversampled and some are undersampled.
++ You are told how many times each person was contacted before they were marked as non-responsive. This number should be much larger than two.
++ The response rate should be at least 20% and ideally more than 30%.
++ In the report, the responses are weighted and there are confidence intervals.

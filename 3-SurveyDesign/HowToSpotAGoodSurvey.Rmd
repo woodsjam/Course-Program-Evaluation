@@ -7,11 +7,36 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## Surveys are expensive aids to decison making and should not be undertaken lightly.
 
-+ When you read a question, you know exactly what it is asking and how to interpret each response.
-+ The questions are either to control for non-response bias, or to help you make a decision. Ideally, you decided on the decision criteria before the survey went out.
-+ The survey was sent to a sample, not everyone. 
-+ Some people are oversampled and some are undersampled.
-+ You are told how many times each person was contacted before they were marked as non-responsive. This number should be much larger than two.
-+ The response rate should be at least 20% and ideally more than 30%.
-+ In the report, the responses are weighted and there are confidence intervals.
+Even if you don't see the bill, the cost in staff time to *properly* conduct a survey is about $50 per response. Every survey lowers the response rate of future surveys and every question lowers your response rate.
+
+Every poorly conducted survey makes it harder to conduct a good survey.
+
+
+## Most of the questions should be designed to help you make a decision.
+
+It is best practice to know how you will react to survey data.  If you have decided that if 30% of students attending both PSU and PCC say they will enroll only at PSU if the lower-division fees were the same, you have a well defined decision criteria and a well crafted question.
+
+## The survey was sent to a sample -- not everyone.  The sample was chosen to make the responses most accurately describe the population.
+
+Only under very rare circumstances, e.g.,legal requirement or if the population is less than twenty, should a **survey** be sent to everybody.  The sample should weight some groups more than others because their response rates are different.  The goal is not to get a large number of responses, but to get responses that are representative of the population.
+
+## You are told how many times each person was contacted before they were marked as non-responsive. This number should be much larger than two.
+
+People that respond quickly and early are much different than those that rarely respond, and don't represent the population.  Hard to reach parts of the population must be contacted many times, in many different ways or we lose their voices.
+
+Look for multiple contacts through multiple channels, different email addresses, phone numbers, and mail over a longer period of time.  It should take a few weeks to gather responses, not a few days.  
+
+## The response rate should be at least 20% and ideally more than 30%.
+
+A survey with a 1,000 responses from a sample of 20,000 is far less useful than 400 responses from a sample of 1,200. The response rate indicates the effort that went into getting your sample to respond.
+
+Low response rates indicate high non-response bias.  Your responses are unlikely to reflect what is going on in the population.
+
+## In the report, the responses are weighted and there are confidence intervals.
+
+Weights are used to correct for non-response.  Groups that are more likely to respond are count less than groups that rarely respond since those rare respondents represent truly new information.  Confidence intervals are just the way of describing how far off you could be from the true values.
+
+Both of these are nearly impossible when there is a low response rate.
+
